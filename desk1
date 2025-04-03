@@ -3,5 +3,9 @@ new
 another line
 yet another
 and another
+<<<<<<< Updated upstream
 
 7th line
+=======
+sixth line
+>>>>>>> Stashed changes
